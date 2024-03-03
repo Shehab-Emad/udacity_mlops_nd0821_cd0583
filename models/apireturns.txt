@@ -1,0 +1,53 @@
+[
+  0,
+  1,
+  1,
+  1,
+  1
+]
+
+0.3333333333333333
+
+[
+  {
+    "lastmonth_activity": {
+      "mean": 5625.923076923077,
+      "median": 425.0,
+      "std": 19444.774621317832
+    }
+  },
+  {
+    "lastyear_activity": {
+      "mean": 763.5384615384615,
+      "median": 97.5,
+      "std": 2016.6093569309696
+    }
+  },
+  {
+    "number_of_employees": {
+      "mean": 457.46153846153845,
+      "median": 99.0,
+      "std": 800.6048328991891
+    }
+  }
+]
+
+{
+  "execution_time": [
+    0.26567231700755656,
+    0.6337069190049078
+  ],
+  "missing_data": {
+    "lastmonth_activity": {
+      "percentage": 0.0
+    },
+    "lastyear_activity": {
+      "percentage": 0.0
+    },
+    "number_of_employees": {
+      "percentage": 0.0
+    }
+  },
+  "outdated_packages_list": null
+}
+

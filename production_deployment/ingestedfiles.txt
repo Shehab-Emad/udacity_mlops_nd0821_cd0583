@@ -1,0 +1,5 @@
+Ingestion folder path: practicedata
+Ingestion files names: dataset2.csv,dataset1.csv
+Ingestion rows number: 19,17
+Ingestion date: 29/02/2024 12:40:33
+--

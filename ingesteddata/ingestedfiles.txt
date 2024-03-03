@@ -1,0 +1,5 @@
+Ingestion folder path: sourcedata
+Ingestion files names: dataset4.csv,dataset3.csv
+Ingestion rows number: 15,11
+Ingestion date: 29/02/2024 18:02:05
+--
